@@ -2,11 +2,11 @@ const sharp = require("sharp");
 
 const QUALITY = 90;
 
-const filePath = "NOVO-MiX.jpeg";
+const filePath = "savon.jpeg";
 
 const dimensions = {
-  height: 750,
-  // width: 400,
+ // height: 750,
+   width: 2000,
 };
 
 const fileNameParts = filePath.split(".");
