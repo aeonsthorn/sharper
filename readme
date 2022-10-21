@@ -1,0 +1,4 @@
+1) source alias.sh
+2) upload image dans le folder actuel
+3) entrez le nom du fichier dans sh.js (filepath)
+3) comment out le width ou height dépendemment de ce que tu as besoin (dans sh.js)
